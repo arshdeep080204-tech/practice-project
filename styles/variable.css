@@ -1,0 +1,13 @@
+:root {
+  --font-family: "Work Sans", sans-serif;
+
+  --primary-color: #5e5bec;
+  --secondary-color: #6f78f0;
+
+  --heading-color: #111827;
+  --text-color: #6b7280;
+
+  --light-background: #f8f9fc;
+
+  --max-width: 1200px;
+}
